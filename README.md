@@ -1,6 +1,6 @@
 
 
-# Evil keylogger server
+# Evil keylogger server (Covert Channel)
 
 * ***Feel free to modify this as you see fit, as it is just a proof of concept and can be improved in many ways.***
 
