@@ -1,11 +1,15 @@
+
+<div align="center">
+    
 ![Screenshot_20231005_033920](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/8c3b2b16-ae6d-467b-82a3-0e8c0b89c46a)
 
-<div>
-    <img src="https://img.shields.io/badge/Language%20-Python3-green.svg" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Tool%20-Keylogger, Covert Channel-blue.svg" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Type%20-Script-violet.svg" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Target OS%20-Windows, Linux-red.svg" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Hacking tool%20-teste?style=flat-square style="max-width: 100%;">
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+    
+<img src="https://img.shields.io/badge/Language%20-Python3-green.svg" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Tool%20-Keylogger, Covert Channel-blue.svg" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Type%20-Script-violet.svg" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Target OS%20-Windows, Linux-red.svg" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Hacking tool%20-teste?style=flat-square" style="max-width: 100%;">
 </div>
 
 # Evil keylogger server (Covert Channel)
