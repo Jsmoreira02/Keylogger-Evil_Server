@@ -1,7 +1,9 @@
 
 <div align="center">
-    
-![Screenshot_20231005_033920](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/8c3b2b16-ae6d-467b-82a3-0e8c0b89c46a)
+
+![272844130-8c3b2b16-ae6d-467b-82a3-0e8c0b89c46a-removebg-preview](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/312b2d20-ecb1-42b9-9d54-2382833a7735)
+
+<img src="https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/8f263795-f5f4-418f-a918-d4dea0c992cd" height=350 align=left>
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
     
