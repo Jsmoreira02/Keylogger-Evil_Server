@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/8f263795-f5f4-418f-a918-d4dea0c992cd" height=350 align=left>
 
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+<img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg">
     
 <img src="https://img.shields.io/badge/Language%20-Python3-green.svg" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Tool%20-Keylogger, Covert Channel-blue.svg" style="max-width: 100%;">
