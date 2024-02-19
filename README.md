@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![272844130-8c3b2b16-ae6d-467b-82a3-0e8c0b89c46a-removebg-preview](https://github.com/Jsmoreira02/Keylogger-Evil_Server/assets/103542430/312b2d20-ecb1-42b9-9d54-2382833a7735)
@@ -10,7 +9,7 @@
 <img src="https://img.shields.io/badge/Language%20-Python3-green.svg" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Tool%20-Keylogger, Covert Channel-blue.svg" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Type%20-Script-violet.svg" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Target OS%20-Windows, Linux-red.svg" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/OS%20-Windows, Linux-red.svg" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Hacking tool%20-teste?style=flat-square" style="max-width: 100%;">
 </div>
 
