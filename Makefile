@@ -10,5 +10,3 @@ $(TARGET): $(SOURCES)
 
 clean:
 	rm -rf build $(TARGET).spec
-
-
