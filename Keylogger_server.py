@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Coded by: Jsmoreira02
+# https://github.com/Jsmoreira02
+
 from ssl import create_default_context
 from threading import Thread, Event
 from argparse import ArgumentParser
